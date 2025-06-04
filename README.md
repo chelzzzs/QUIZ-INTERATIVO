@@ -1,6 +1,6 @@
 # QUIZ-INTERATIVO
 🧠 Quiz do Michel
-Um simples jogo de perguntas e respostas desenvolvido em Python, com execução via terminal (modo "tela preta"). Ideal para iniciantes em programação que queiram praticar input, condicionais e controle de fluxo.
+Um simples jogo de perguntas e respostas desenvolvido em Python. Ideal para iniciantes em programação que queiram praticar input, condicionais e controle de fluxo.
 
 📜 Descrição
 Este projeto é um quiz interativo feito em Python que apresenta 4 perguntas de múltipla escolha. O jogador precisa acertar o máximo possível e no final recebe a pontuação total.
